@@ -1,0 +1,83 @@
+{
+    "info": [
+        {
+            "id": 1,
+            "full_name": "Channing Tatum",
+            "image": "img/channing_tatum.jpg",
+            "awards": 13,
+            "desc": "(born April 26, 1980) is an American actor, film producer, dancer, and model. Tatum made his film debut in the drama film Coach Carter.",
+            "worth": 60000000
+        },
+        {
+            "id": 2,
+            "full_name": "Daniel Craig",
+            "image": "img/daniel_craig.jpg",
+            "awards": 6,
+            "desc": "(born 2 March 1968) is an English actor, who trained at the National Youth Theatre and graduated from the Guildhall School of Music and Drama in 1991, beginning his career on stage. His film debut was in the drama The Power of One.",
+            "worth": 95000000
+        },
+        {
+            "id": 3,
+            "full_name": "Ellen Degeneres",
+            "image": "img/ellen_degeneres.jpg",
+            "awards": 16,
+            "desc": "(born January 26, 1958) is an American comedian, television host, actress, writer, and producer.",
+            "worth": 330000000
+        },
+        {
+            "id": 4,
+            "full_name": "Halle Berry",
+            "image": "img/halle_berry.jpg",
+            "awards": 17,
+            "desc": "(August 14, 1966) is an American actress and former fashion model.",
+            "worth": 80000000
+        },
+        {
+            "id": 5,
+            "full_name": "Jackie Chan",
+            "image": "img/jackie_chan.jpg",
+            "awards": 14,
+            "desc": "(born 7 April 1954) is a Hong Kong actor, martial artist, film director, producer, stuntman, and singer. In his movies, he is known for his acrobatic fighting style, comic timing, use of improvised weapons, and innovative stunts, which he typically performs himself.",
+            "worth": 230000000
+        },
+        {
+            "id": 6,
+            "full_name": "Daniel Radcliffe",
+            "image": "img/daniel_radcliffe.jpg",
+            "awards": 7,
+            "desc": "(born 23 July 1989) is an English actor who rose to prominence as the title character in the Harry Potter film series.",
+            "worth": 110000000
+        },
+        {
+            "id": 7,
+            "full_name": "Jessica Alba",
+            "image": "img/jessica_alba.jpg",
+            "awards": 15,
+            "desc": "(born April 28, 1981) is an American actress, model and businesswoman.",
+            "worth": 350000000
+        },
+        {
+            "id": 8,
+            "full_name": "Leonardo Dicaprio",
+            "image": "img/leonardo_dicaprio.jpg",
+            "awards": 20,
+            "desc": "(born November 11, 1974) is an American actor and film producer.",
+            "worth": 240000000
+        },
+        {
+            "id": 9,
+            "full_name": "Natalie Portman",
+            "image": "img/natalie_portman.jpg",
+            "awards": 27,
+            "desc": "(born June 9, 1981) is an actress, producer and director with dual American and Israeli citizenship.",
+            "worth": 45000000
+        },
+        {
+            "id": 10,
+            "full_name": "Tom Hanks",
+            "image": "img/tom_hanks.jpg",
+            "awards": 36,
+            "desc": "(born July 9, 1956) is an American actor and filmmaker.",
+            "worth": 350000000
+        }]
+}

@@ -1,0 +1,14 @@
+<main >
+    <div class="row">
+        <div class="jumbotron"> 
+            <image ng-src="{{info.image}}"></image>
+            <h2>Name: {{info.full_name}}</h2>
+            <p>Awards Won: {{info.awards}}</p>
+            <p>Net Worth: {{info.worth | currency:"USD$"}}</p>
+            <p>Bio: {{info.desc}}</p>
+        </div>
+    </div>
+    <div class="row">
+        <a class="btn btn-default" href="#/" role="button">&laquo; Back</a>
+    </div>
+</main>
